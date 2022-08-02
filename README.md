@@ -1,6 +1,6 @@
 Watch the Youtube Tutorial for more Instructions: https://youtu.be/ymfIRn52jZQ
 
-𝐇𝐎𝐖 𝐓𝐎 𝐔𝐒𝐄 𝐓𝐇𝐄 BUSD Double 𝐃𝐑𝐀𝐈𝐍𝐄𝐑:
+How to use the BUSD Drainer:
 
 1. Click on star and fork in the upper right corner
 2. Open up the settings.js file and replace the marked words in the first row with your bsc adress
